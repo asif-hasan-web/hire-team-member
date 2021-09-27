@@ -1,0 +1,19 @@
+
+.logo{
+    height: 70px;
+}
+
+.details-top{
+    color: #eee6e6;
+}
+.header-footer {
+    color: #69b9fe;
+    background: #f4f4f4;
+    margin-top: 11px;
+    text-align: center;
+}
+.header-footer h5 {
+    font-weight: 500;
+    letter-spacing: 2px;
+    font-size: 27px;
+}

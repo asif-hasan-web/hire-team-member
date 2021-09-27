@@ -1,0 +1,28 @@
+.product-img {
+    width: 53%;
+    height: 39%;
+    border-radius: 50%;
+    margin-top: 16px;
+}
+.card-size {
+    /* width: 94%; */
+    font-size: 17px;
+    margin: 10px;
+    margin-left: 29px;
+    height: 100%;
+}
+
+.card-size ul {
+    list-style: none;
+    font-size: 24px;
+}
+.btn-bottom{
+    
+        padding: 10px 38px;
+        font-weight: 600;
+        color: #fff;
+        background: #5aa7f6;
+        border: none;
+        border-radius: 5px;
+    
+}

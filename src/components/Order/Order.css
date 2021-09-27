@@ -1,0 +1,15 @@
+.cart-design{
+    list-style:none;
+    font-weight: 700;
+    font-size: 30;
+    
+}
+.cart-design li {
+    background: rgb(6, 121, 197);
+    color: #fff;
+    margin: 5px 0;
+    width: 50%;
+    padding: 8px 5px;
+    border-radius: 5%;
+    box-shadow: 7px 7px #88888833;
+}
